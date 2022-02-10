@@ -9,7 +9,8 @@
 * README.md - this file itself - using Markdown language.
 * Hope you like it.
 * Full 
-* ![image](D:\InputCodeHere\Session07-Collections\MusicMP3Player\demoPhoto\fullMP3.png)
-* Double click to title part
-* ![image](D:\InputCodeHere\Session07-Collections\MusicMP3Player\demoPhoto\minimalMP3.png)
+# ![alt text](url)
+![My image](https://github.com/give-it-your-best-shot/Java-Swing-GUI-MP3Player/blob/main/demoPhoto/fullMP3.png)
+# ![alt text](url)
+![My image](https://github.com/give-it-your-best-shot/Java-Swing-GUI-MP3Player/blob/main/demoPhoto/minimalMP3.png)
 ## 2022 dang.huynh | https://www.facebook.com/profile.php?id=100008147080023"# Java-Swing-GUI-MP3Player" 
