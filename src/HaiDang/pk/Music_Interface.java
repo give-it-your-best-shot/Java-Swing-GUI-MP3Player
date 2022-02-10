@@ -388,7 +388,7 @@ public class Music_Interface extends javax.swing.JFrame {
         if(evt.getClickCount() == 2){
             if(windowCollaped == false){
                 windowCollaped = true;
-                this.setSize(new Dimension(this.getSize().width,51));
+                this.setSize(new Dimension(this.getSize().width,75));
                 
                 appTitle.setFont(new Font("Nirmala UI", 0, 12));
                 appTitle.setText("Playing Now....|" + songFile.getName());
