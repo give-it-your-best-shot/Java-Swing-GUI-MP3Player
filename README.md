@@ -11,7 +11,12 @@
 
 #FULL
 ![My image](https://github.com/give-it-your-best-shot/Java-Swing-GUI-MP3Player/blob/main/demoPhoto/fullMP3.png)
+#
 #MINIATURE
 ![My image](https://github.com/give-it-your-best-shot/Java-Swing-GUI-MP3Player/blob/main/demoPhoto/minimalMP3.png)
-## 2022 Demo video | https://www.facebook.com/100008147080023/videos/4915731961803127
+
+
+## 2022 Demo video | https://www.facebook.com/100008147080023/videos/4915731961803127qa  
+#
+#                                                   
 ## 2022 dang.huynh | https://www.facebook.com/profile.php?id=100008147080023"# Java-Swing-GUI-MP3Player" 
