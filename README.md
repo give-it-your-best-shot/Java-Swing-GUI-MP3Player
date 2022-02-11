@@ -8,11 +8,11 @@
 * .gitignore file for NetBeans project.
 * README.md - this file itself - using Markdown language.
 * Hope you like it.
-
-#FULL
+#
+FULL
 ![My image](https://github.com/give-it-your-best-shot/Java-Swing-GUI-MP3Player/blob/main/demoPhoto/fullMP3.png)
 #
-#MINIATURE
+MINIATURE
 ![My image](https://github.com/give-it-your-best-shot/Java-Swing-GUI-MP3Player/blob/main/demoPhoto/minimalMP3.png)
 #
 ## 2022 Demo video | https://www.facebook.com/100008147080023/videos/4915731961803127qa  
